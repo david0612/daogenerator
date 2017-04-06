@@ -1,3 +1,11 @@
+
+
+//IMPROVEMENTS
+// Let the user pick the PostGres schema
+// Let the user specify generated location
+// Let the user pick the package name
+
+
 package main
 
 import (
